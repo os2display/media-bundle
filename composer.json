@@ -1,0 +1,10 @@
+{
+    "name": "os2display/media-bundle",
+    "description": "Os2Display media",
+    "type": "symfony-bundle",
+    "autoload": {
+        "psr-4": {
+            "Os2Display\\MediaBundle\\": ""
+        }
+    }
+}
