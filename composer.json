@@ -2,6 +2,9 @@
     "name": "os2display/media-bundle",
     "description": "Os2Display media",
     "type": "symfony-bundle",
+    "require": {
+        "sonata-project/media-bundle": "^2.0"
+    },
     "autoload": {
         "psr-4": {
             "Os2Display\\MediaBundle\\": ""
